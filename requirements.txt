@@ -1,0 +1,7 @@
+progressbar
+pytorch
+torchvision
+pytoune
+numpy
+pandas
+matplotlib
